@@ -19,3 +19,12 @@
     line-height:20px;
     text-align:justify;
 }
+.team{
+    text-decoration:underline;
+    font-weight: 300;
+    font-size:25px;
+    color:RGB(100,150,100);
+}
+.proj{
+    display: flex;
+}
