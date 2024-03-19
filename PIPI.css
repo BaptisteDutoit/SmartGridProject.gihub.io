@@ -21,10 +21,7 @@
 }
 .team{
     text-decoration:underline;
-    font-weight: 300;
-    font-size:25px;
+    font-weight:300;
+    font-size:14px;
     color:RGB(100,150,100);
-}
-.proj{
-    display: flex;
 }
